@@ -1,7 +1,8 @@
 Hi 👋 My name is Joshua Quaintance
 ==================================
 
-📖 I am currently studying for a Bachelor of Science degree in Computer Science. 💻 I have been doing Web Development for about 3 years
+📖 I am currently studying for a Bachelor of Science degree in Computer Science. <br />
+💻 I have been doing Web Development for about 3 years
 
 *   🌍  I'm based in Ohio
 *   🧠  I'm learning SvelteKit, Playwright, and Vitest
