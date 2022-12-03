@@ -53,7 +53,8 @@ I am currently studying for a Bachelor of Science degree in Computer Science. I 
 
 <a href="http://www.github.com/JoshQuaintance">
     <img src="https://github-readme-stats.vercel.app/api?username=JoshQuaintance&show_icons=true&hide=stars,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="JoshQuaintance's GitHub stats" />
-</a>
+</a>  <br/>
+
 <a href="https://github.com/JoshQuaintance" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshQuaintance&langs_count=8&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=TeX,CMake,Vim%20Script,SCSS,Batchfile,Shell,C" alt="Top Languages" />
 </a>
