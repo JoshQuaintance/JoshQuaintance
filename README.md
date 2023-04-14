@@ -3,7 +3,6 @@
 I am currently studying for a Bachelor of Science degree in Computer Science. I have been doing Web Development for about 3 years. I started my coding journey around 2020 during the horrible event.
 
 -   🌍  I'm based in Ohio
--   🧠  I'm learning SvelteKit, Playwright, and Vitest
 -   ⚡  I love backend, and an avid lover of Svelte and SvelteKit
 
 ### Skills
