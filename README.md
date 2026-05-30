@@ -1,6 +1,6 @@
 # Hi 👋 My name is Joshua Quaintance
 
-I am currently studying for a Bachelor of Science degree in Computer Science. I have been doing Web Development for about 3 years and have explored other aspects of computer science. I've recently gotten more into embedded software and a little hardware for my senior project, mainly working with Arduinos and RF Modules.
+I have a Bachelor's of Science degree in Computer Science from Wright State University. I have been doing Web Development for about 3 years and have explored other aspects of computer science. I've recently gotten more into embedded software and a little hardware for my senior project, mainly working with Arduinos and RF Modules. I'm currently working as an intern at winsupply!
 
 ### Skills
 
